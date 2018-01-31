@@ -13,7 +13,6 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 
 import JavaRMI.Client;
-
 public class OrderFrame extends JFrame {
 
 	OrderPanel o;
