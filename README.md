@@ -1,2 +1,2 @@
 # res-software
-private
+Contributers: Sasa and CC
